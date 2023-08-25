@@ -9,7 +9,7 @@ Download the ZIP and open the files in your IDE.
 
 Run MelodyMain.java.     
 
-In the console first load a text file: `load birthday.txt` (or zombie.txt or twinkle.txt)
+In the console, first load a text file: `load birthday.txt` (or zombie.txt or twinkle.txt)
 
 If you are US based, use the text files:  
     `birthday-us.txt` or  
