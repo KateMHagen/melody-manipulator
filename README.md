@@ -21,12 +21,12 @@ If you are US based, use the text files:
 Turn on the volume of your device to hear the song and the following actions you do to it.
 
 After loading a text file in the console, you can run one action at a time:  
-    `load` load a new input file  
-    `save` output to a file  
-    `print` prints the contents of the last loaded song  
-    `play` play the last loaded song  
-    `reverse` reverse the last loaded song  
-    `duration` print out the length of the last loaded song in seconds  
-    `tempo` change the speed by a percentage   
-    `append` appends notes from a second melody to the loaded one  
-    `quit` exit the program
+    `load` : load a new input file  
+    `save` : output to a file  
+    `print` : prints the contents of the last loaded song  
+    `play` : play the last loaded song  
+    `reverse` : reverse the last loaded song  
+    `duration` : print out the length of the last loaded song in seconds  
+    `tempo` : change the speed by a percentage   
+    `append` : appends notes from a second melody to the loaded one  
+    `quit` : exit the program
