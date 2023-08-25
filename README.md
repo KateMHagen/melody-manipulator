@@ -1,7 +1,9 @@
-A Data Structures and Program Design lab project that focuses on queues and stacks. 
+### Note Changer  
+A Data Structures and Program Design lab project that focuses on queues and stacks.  
 
-All the methods I created are added to MelodyQueue.java 
-My task was to complete the class that represents a song, called MelodyQueue. I implemented several methods which allows you to use MelodyMain to play a song with mp3 player like functionality. Your melody will be able to play as well as append another melody to itself, reverse and have the tempo changed.
+All the methods I created are added to MelodyQueue.java   
+My task was to complete the class that represents a song, called MelodyQueue. I implemented several methods which allows you to use MelodyMain to play a song with mp3 player like functionality.  
+Your melody will be able to play as well as append another melody to itself, reverse and have the tempo changed.
 
 To run:
 Download ZIP and open the files in your IDE. 
