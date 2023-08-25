@@ -5,14 +5,14 @@ My task was to complete the class that represents a song, called MelodyQueue in 
 Your melody will be able to play as well as append another melody to itself, reverse and have the tempo changed.
 
 To run:  
-Download ZIP and open the files in your IDE. 
+Download the ZIP and open the files in your IDE. 
 
 Run MelodyMain.java.     
 
 In the console first load a text file: `load birthday.txt` (or zombie.txt or twinkle.txt)
 
 If you are US based, use the text files:  
-    `birthday-us.txt`  
+    `birthday-us.txt` or  
     `zombie-us.txt` or    
     `twinkle-us.txt`  
 
