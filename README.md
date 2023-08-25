@@ -1,4 +1,4 @@
-### Note Changer  
+### Melody Manipulator  
 A project I completed in my Data Structures and Program Design lab at CSU Northridge that focuses on queues and stacks.  
 
 My task was to complete the class that represents a song, called MelodyQueue in the file MelodyQueue.java. I implemented several methods which allows you to use MelodyMain to play a song with mp3 player like functionality.  
