@@ -4,7 +4,7 @@ All the methods I created are added to MelodyQueue.java
 My task was to complete the class that represents a song, called MelodyQueue. I implemented several methods which allows you to use MelodyMain to play a song with mp3 player like functionality. Your melody will be able to play as well as append another melody to itself, reverse and have the tempo changed.
 
 To run:
-Open the files in your IDE. 
+Download ZIP and open the files in your IDE. 
 
 Run MelodyMain.java. 
 
